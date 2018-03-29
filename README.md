@@ -1,4 +1,6 @@
 # Bus Track
+Bus track es una App que verifica los tiempos de llegada de tu bus,recibes alertas de retrasos del servicio e información en ruta durante tu experiencia de viaje 
+
 ![1 1](https://user-images.githubusercontent.com/32301390/38056381-9f713516-32dc-11e8-8912-2b5733f1a5e2.png)
 ![1 2](https://user-images.githubusercontent.com/32301390/38056382-9f9b8fa0-32dc-11e8-9e8e-1c6a430704d2.png)
 ![1 3](https://user-images.githubusercontent.com/32301390/38056383-9ff73bac-32dc-11e8-9de2-8b395d216615.png)
@@ -21,3 +23,6 @@
 ![1 20](https://user-images.githubusercontent.com/32301390/38056406-a321a704-32dc-11e8-9d09-fb11fa40dba3.png)
 ![1 21](https://user-images.githubusercontent.com/32301390/38056407-a351289e-32dc-11e8-90f6-7122fa7197f2.png)
 ![1 22](https://user-images.githubusercontent.com/32301390/38056408-a37cff5a-32dc-11e8-8f5b-b754b39a6a59.png)
+
+
+## Desarrollado para [laboratoria](http://laboratoria.la)
